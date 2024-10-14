@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     NAME => 'Data::Buffer',
     DISTNAME => 'Data-Buffer',
-    VERSION_FROM => 'Buffer.pm',
+    VERSION_FROM => 'lib/Data/Buffer.pm',
     AUTHOR => 'Benjamin Trott <ben@rhumba.pair.com>',
     ABSTRACT => 'Read/write buffer class',
 );

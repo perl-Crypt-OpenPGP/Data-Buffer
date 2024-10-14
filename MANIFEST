@@ -1,6 +1,6 @@
-Buffer.pm
 Changes
-MANIFEST
+lib/Data/Buffer.pm
 Makefile.PL
+MANIFEST
 README
-test.pl
+t/test.t
