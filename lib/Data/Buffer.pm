@@ -4,7 +4,7 @@ package Data::Buffer;
 use strict;
 
 use vars qw( $VERSION );
-$VERSION = '0.04';
+# VERSION
 
 sub new {
     my $class = shift;
