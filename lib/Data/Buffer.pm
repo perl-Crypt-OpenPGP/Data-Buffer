@@ -457,7 +457,7 @@ of the transferred packet will be evenly divisible by
 
 Benjamin Trott, ben@rhumba.pair.com
 
-Except where otherwise noted, Data::Buffer is Copyright 2001
+Except where otherwise noted, Data::Buffer is Copyright 2001 to 2024
 Benjamin Trott. All rights reserved. Data::Buffer is free
 software; you may redistribute it and/or modify it under
 the same terms as Perl itself.
